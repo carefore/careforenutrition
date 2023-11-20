@@ -22,7 +22,13 @@ Dự án này bao gồm một trang web thư mời dự tiệc đơn giản, cho
 Nếu bạn có bất kỳ câu hỏi hoặc góp ý, vui lòng liên hệ:
 
 - Email: your_email@example.com
-- Website: [Carefore Nutrition - Sữa non COLOS IgGOLD](careforenutrition@gmail.com)
+- Website: [Carefore Nutrition - Sữa non COLOS IgGOLD](https://careforenutrition.com/)
+- [Issues](https://github.com/your_username/your_project/issues): Để báo cáo vấn đề hoặc đề xuất cải tiến
+
+## Giấy Phép
+
+Dự án được phát hành dưới [tên giấy phép](link_to_license).
+
 - [Issues](https://github.com/your_username/your_project/issues): Để báo cáo vấn đề hoặc đề xuất cải tiến
 
 ## Giấy Phép
